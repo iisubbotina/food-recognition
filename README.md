@@ -25,7 +25,7 @@ cd food-recognition
 pip install -r requirements.txt
 
 3. Загрузка модели и датасетов
-   См. файл Загрузка компонентов.txt 
+   См. файл Загрузка данных.txt 
 
 4. Добавить токен вашего телеграм бота в telegram_bot.py (10 строка)
 ![image](https://github.com/user-attachments/assets/6f448e4e-3b61-4a2b-8dc1-9d624134598c)
