@@ -1,0 +1,8 @@
+numpy==1.17.3
+tensorflow==1.15.2
+keras==2.1.0
+PyTelegramBotAPI
+telebot
+deep-translator
+pycocotools-windows
+
