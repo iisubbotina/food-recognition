@@ -31,3 +31,6 @@ python setup.py install
 ![image](https://github.com/user-attachments/assets/6f448e4e-3b61-4a2b-8dc1-9d624134598c)
 5. Запустить телеграм бот
    python telegram_bot.py
+
+   Проект в Kaggle: https://www.kaggle.com/code/iisubbotina/foodscan-telegram-bot-for-food-recognition/notebook
+   
