@@ -14,22 +14,18 @@
 Калорийность продуктов: https://www.kaggle.com/datasets/vaishnavivenkatesan/food-and-their-calories
 
 ### Установка и запуск проекта
-1. Клонирование репозитория
-   
-   git clone https://github.com/your-username/food-recognition.git
-cd food-recognition
 
-2. Установка зависимостей
+1. Установка зависимостей
 Рекомендуемая версия Python 3.7.6
 
 pip install -r requirements.txt
 
-3. Загрузка модели и датасетов
+2. Загрузка модели и датасетов
    См. файл Загрузка данных.txt 
 
-4. Добавить токен вашего телеграм бота в telegram_bot.py (10 строка)
+3. Добавить токен вашего телеграм бота в telegram_bot.py (10 строка)
 ![image](https://github.com/user-attachments/assets/6f448e4e-3b61-4a2b-8dc1-9d624134598c)
-5. Запустить телеграм бот
+4. Запустить телеграм бот
    python telegram_bot.py
 
    Проект в Kaggle: https://www.kaggle.com/code/iisubbotina/foodscan-telegram-bot-for-food-recognition/notebook
